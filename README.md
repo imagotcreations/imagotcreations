@@ -1,16 +1,53 @@
-## Hi there 👋
+# Imago T Creations 🎬
 
-<!--
-**imagotcreations/imagotcreations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Creation starts with Creativity.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Welcome
+We are a creative media studio based in Uganda, passionate about storytelling through film, photography, design, and digital media production.
+
+---
+
+## 🎥 What We Do
+- 📸 Photography (Events, Portraits, Commercial)
+- 🎬 Videography (Films, Music Videos, Documentaries)
+- 📡 Livestream Production (Church, Events, Conferences)
+- 🎨 Graphic Design & Branding
+- 📱 Social Media Content Creation
+- 📢 Digital Marketing & Media Strategy
+
+---
+
+## 🚀 Vision
+To become one of the leading creative media studios in East Africa, empowering visual storytelling and digital innovation.
+
+---
+
+## 🤝 Collaboration
+We love working with:
+- Creatives
+- Churches
+- Businesses
+- Schools
+- Organizations
+
+---
+
+## 📍 Location
+Uganda 🇺🇬
+
+---
+
+## 📫 Contact
+- Email: imagotcreations@gmail.com *(update if needed)*
+- YouTube: Imago T Creations
+
+---
+
+## ⚡ Fun Fact
+We don’t just create content — we create impact.
+
+---
+
+⭐ **Thank you for visiting our profile!**
